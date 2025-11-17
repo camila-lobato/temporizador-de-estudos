@@ -22,15 +22,3 @@ Projeto mínimo com Expo + React Navigation + um componente temporizador de estu
 - `src/screens/*` – telas básicas
 - `src/components/Temporizador.tsx` – componente do temporizador (requisitos do seu pedido)
 
-## Subir para o GitHub
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - StudyTimer minimal"
-# criar repositório no GitHub e copiar a URL
-git remote add origin https://github.com/<seu-usuario>/<repo>.git
-git branch -M main
-git push -u origin main
-```
-
